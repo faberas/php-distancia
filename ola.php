@@ -1,3 +1,2 @@
 <?php
-
-encho 'ola mundo';
+echo 'ola mundo';
