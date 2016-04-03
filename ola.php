@@ -1,0 +1,3 @@
+<?php
+
+encho 'ola mundo';
